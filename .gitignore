@@ -1,0 +1,6 @@
+# ignore virtual environment
+venv/
+
+
+# Ignore model file
+population_model.pkl
